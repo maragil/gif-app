@@ -15,3 +15,9 @@ export const getGifs = async( eachCategory ) => {
     return gifs;
 
 }
+
+// getGifs.prototypes = {
+//     title: PropTypes.string.isRequired,
+//     url: PropTypes.url.isRequired,
+
+// }
