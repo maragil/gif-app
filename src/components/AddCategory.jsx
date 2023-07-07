@@ -21,8 +21,9 @@ export const AddCategory = ({ onNewCategory }) => {
 
     return (
 
-        <form onSubmit={ handleOnSubmit }
-        className='form-gif'>
+        <form   onSubmit={ handleOnSubmit }
+                className='form-gif'
+                aria-label='form'>
             <input
                 className='input-gif'
                 type="text"

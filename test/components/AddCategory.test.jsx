@@ -14,7 +14,26 @@ describe('Pruebas en <AddCategory />', () => {
 
         // screen.debug();
 
-
     });
+
+    test('Deber de llamar a onNewCategory si el input tiene un valor ', () => {
+
+        const inputValue= 'Saitama';
+        //todo
+
+        render( <AddCategory onNewCategory={() => {}}/>);
+
+        const input = screen.getByRole('textbox');
+        const form = screen.getByRole('form');
+
+        fireEvent.input( input, { target: { value: inputValue } } );
+        fireEvent.submit( form );
+
+        // screen.debug();
+
+        expect( input.value ).toBe('');
+
+    })
+
 
 });
