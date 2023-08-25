@@ -2,13 +2,11 @@
 
 Este proyecto forma parte del curso de [React Js: de cero a experto](https://www.udemy.com/course/react-cero-experto/) impartido por el profesor [Fernando Herrera](https://github.com/Klerith) en [Udemy](https://www.udemy.com/). 
 
-# este proyecto no está hecho con create-react-app sino con vite
-
 
 ## 📑 Características
 
 Esta apliación contiene un buscador de GIFs que permite realizar búsquedas mediante palabras clave. Puedes buscar Gifs de todas las series o personajes que se te ocurran!
-
+>Para este proyecto se ha usado [Vite](https://vitejs.dev/), ya que es una herramienta de compilación que tiene como objetivo proporcionar una experiencia de desarrollo más rápida y ágil para proyectos web modernos.
 
 ## 📀 Instalación
 
