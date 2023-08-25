@@ -7,7 +7,8 @@ Este proyecto forma parte del curso de [React Js: de cero a experto](https://www
 
 ## 📑 Características
 
-Esta apliación contiene un buscador de GIFs que permiten realizar búsquedas mediante palabras clave. Puedes buscar Gifs de todas las series o personajes que se te ocurran.
+Esta apliación contiene un buscador de GIFs que permite realizar búsquedas mediante palabras clave. Puedes buscar Gifs de todas las series o personajes que se te ocurran!
+
 
 ## 📀 Instalación
 
@@ -40,13 +41,13 @@ La aplicación está configurada para que se pueda desplegar de manera sencilla 
      npm run docs
      ```
   3. Una vez completado, los archivos de construcción se encontrarán en la carpeta `docs`.
-  4. 
+
 
 ## 🗝️ Uso de API en Giphy.
 
 Este proyecto utiliza la API de Giphy para mostrar Gifs animados relacionados con la palabra clave introducida en el buscador.
 
->**Nota:** Para que este proyecto funcione correctamente, debes configurar tu propia API key de [Giphy](https://developers.giphy.com/) y proporcionarla en el código. Sigue estos pasos para configurar tu API key:
+>**Nota:** Para que este proyecto funcione correctamente, debes configurar tu propia API key de [Giphy](https://developers.giphy.com/) y proporcionarla en el código.
 
 
 ## 🧰 Herramientas y tecnologías.
