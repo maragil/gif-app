@@ -45,7 +45,7 @@ La aplicación está configurada para que se pueda desplegar de manera sencilla 
 
 Este proyecto utiliza la API de Giphy para mostrar Gifs animados relacionados con la palabra clave introducida en el buscador.
 
->**Nota:** Para que este proyecto funcione correctamente, debes configurar tu propia API key de [Giphy](https://developers.giphy.com/) y proporcionarla en el código.
+>**Nota:** Para que este proyecto funcione correctamente, debes configurar tu propia API key de [Giphy](https://developers.giphy.com/) y proporcionarla en el código. En este código, la petición a la API se hace en `src/helpers/getGifs.js`
 
 
 ## 🧰 Herramientas y tecnologías.
