@@ -36,7 +36,7 @@ La aplicación está configurada para que se pueda desplegar de manera sencilla 
   2. Ejecuta el siguiente comando en tu terminal para generar los archivos necesarios para el despliegue:
      
      ```bash
-     npm run docs
+     yarn build
      ```
   3. Una vez completado, los archivos de construcción se encontrarán en la carpeta `docs`.
 
